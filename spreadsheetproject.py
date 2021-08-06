@@ -3,6 +3,7 @@ email="adegiteadejuwon@gmail.com"
 slackusername="@AAdejuwon"
 biostack="Genomics"
 twitterhandle="@A_Adegite"
+
 print(name)
 print(email)
 print(slackusername)
