@@ -7,6 +7,13 @@ The team is named after a british molecular biologist Francis Crick known to hav
 The team consists of 19 amazing people from different spheres of life who are currently undergoing a reaserch internship with HackBio aimed at equipping scientists from different spheres of life with advanced bioinformatics and computational skills
 ## Contributors
 
+| Names | Picture  |
+| ------- | ---------- |
+| <img src="images/Anisa.jpeg" alt="anisa" width="500" height="500"> | Ishaq-Balogun Anisa |
+| <img src="images/Maryam.jpeg" alt="maryam" width="500" height="500"> | Ahmadu, Maryam Abdulazeez |
+| <img src="images/Adegite Adejuwon.jpeg" alt="adegite adejuwon" width="500" height="500"> |Adegite Adejuwon  |
+| <img src="images/Atanda Yinka.jpg" alt="atanda yinka" width="500" height="500"> | Atanda Yinka |
+
 
 We can't wait to showcase our big project
 
