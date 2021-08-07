@@ -5,7 +5,7 @@ with advanced bioinformatics and computational biology skills. The 5-weeks virtu
 The team is named after a british molecular biologist Francis Crick known to have discovered the double helix structure of DNA. 
 
 The team consists of 19 amazing people from different spheres of life who are currently undergoing a reaserch internship with HackBio aimed at equipping scientists from different spheres of life with advanced bioinformatics and computational skills
-## Contributors
+## Meet The Contributors
 
 | Names | Picture  |
 | ------- | ---------- |
