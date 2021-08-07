@@ -9,13 +9,13 @@ The team consists of 19 amazing people from different spheres of life who are cu
 
 |  |   |
 | ------- | ---------- |
-| <img src="images/Anisa.jpeg" alt="Ishaq-Balogun Anisa" width="300" height="300"> | Ishaq-Balogun Anisa (Team lead)|
-| <img src="images/Maryam.jpeg" alt="Ahmadu, Maryam Abdulazeez" width="300" height="300"> | Ahmadu, Maryam Abdulazeez |
-| <img src="images/Adegite Adejuwon.jpeg" alt="Adegite Adejuwon" width="300" height="300"> |Adegite Adejuwon |
-| <img src="images/Atanda Yinka.jpg" alt="Atanda Yinka" width="300" height="300"> | Atanda Yinka |
+| <img src="images/Anisa.jpeg" alt="Ishaq-Balogun Anisa" width="250" height="250"> | Ishaq-Balogun Anisa (Team lead)|
+| <img src="images/Maryam.jpeg" alt="Ahmadu, Maryam Abdulazeez" width="250" height="250"> | Ahmadu, Maryam Abdulazeez |
+| <img src="images/Adegite Adejuwon.jpeg" alt="Adegite Adejuwon" width="250" height="250"> |Adegite Adejuwon |
+| <img src="images/Atanda Yinka.jpg" alt="Atanda Yinka" width="250" height="250"> | Atanda Yinka |
 |  | Sanniya Middha  |
-| <img src="images/Ikechukwu_avatar.jpeg" alt="Ikechukwu Okoye" width="300" height="300"> | Ikechukwu Okoye |
-| <img src="images/Samuel Adesanwo.jpg" alt="Samuel Adesanwo" width="300" height="300"> | Samuel Adesanwo |
+| <img src="images/Ikechukwu_avatar.jpeg" alt="Ikechukwu Okoye" width="250" height="250"> | Ikechukwu Okoye |
+| <img src="images/Samuel Adesanwo.jpg" alt="Samuel Adesanwo" width="250" height="250"> | Samuel Adesanwo |
 |  | Rachna |
 
 
