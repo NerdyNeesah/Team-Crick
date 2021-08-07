@@ -23,9 +23,6 @@ do
 	fi
 done 
 
-    echo $RESULT >> Team_crick.csv #append thes result in the csv file
-    rm $FILE 
-fi
-
+cp ./Team_crick.csv ../
 
 echo "All done. Find the csv file at ./Team-Crick/Team_crick.csv or ./Team_crick.csv"
