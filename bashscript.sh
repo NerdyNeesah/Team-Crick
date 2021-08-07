@@ -19,7 +19,7 @@ do
 		./a.out >> Team_crick.csv
 		rm a.out
 	elif [[ $file == *.php ]]; then
-		php $file 
+		php $file >> Team_crick.csv
 	fi
 done 
 
