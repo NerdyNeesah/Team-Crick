@@ -1,14 +1,13 @@
 #!/bin/bash
 git clone https://github.com/NerdyNeesah/Team-Crick
 cd ./Team-Crick
-#FILE=a.out
 
 #Delete the file if it exists and recreate new one
 rm Team_crick.csv 2> /dev/null || touch Team_crick.csv ; touch Team_crick.csv
 
 for file in $(ls)
 do
- echo $file
+# echo $file
 	#for python files
 	if [[ $file == *.py ]]; then
 		python3 $file >> Team_crick.csv
