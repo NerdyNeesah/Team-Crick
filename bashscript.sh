@@ -1,7 +1,26 @@
 #!/bin/bash
 git clone https://github.com/NerdyNeesah/Team-Crick
-cd ./Team_Crick
-FILE=a.out
+cd ./Team-Crick
+#FILE=a.out
+
+#Delete the file if it exists and recreate new one
+rm Team_crick.csv 2> /dev/null || touch Team_crick.csv ; touch Team_crick.csv
+
+for file in $(ls)
+do
+ echo $file
+	#for python files
+	if [[ $file == *.py ]]; then
+		python3 $file >> Team_crick.csv
+	elif [[ $file == *.R ]]; then
+		Rscript $file >> Team_crick.csv
+	elif [[ $file == *.cpp ]]; then
+		g++ $file
+		./a.out >> Team_crick.csv
+	
+	fi
+done 
+
 if test -f "$FILE"; then
     rm $FILE             #remove if there is any executable file is present
 fi
