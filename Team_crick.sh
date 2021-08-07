@@ -4,7 +4,7 @@ rm -rf Team-Crick 2> /dev/null  #delete the repo folder if it already exists.
 git clone https://github.com/NerdyNeesah/Team-Crick
 cd ./Team-Crick
 
-#Delete the file if it exists and recreate new one
+#Delete the csv file if it exists and recreate new one
 rm Team_crick.csv 2> /dev/null || touch Team_crick.csv ; touch Team_crick.csv
 
 for file in $(ls)
