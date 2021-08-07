@@ -30,26 +30,28 @@ function hammingDist($str1, $str2)
 	 $value= hammingDist ($str1, $str2);
 	// echo $value;
 
-$list = array (
-    array('Name', 'email', 'Slack username', 'Biostack', 'twitter handle', 'Hamming Distance'),
-    array('Rachna', 'behl.rachna43@gmail.com', '@Rachna', 'Epigenomics', '@Rachna0403',$value),
-);
+// $list = array (
+//     array('Name', 'email', 'Slack username', 'Biostack', 'twitter handle', 'Hamming Distance'),
+//     array('Rachna', 'behl.rachna43@gmail.com', '@Rachna', 'Epigenomics', '@Rachna0403',$value),
+// );
 
 
-$fp = fopen('filephp.csv', 'w');
-echo "<table>";
-echo "<border=2>";
-foreach ($list as $fields) {
-      fputcsv($fp, $fields);
-	echo "<tr>";
-	foreach ($fields as $field) {
-	echo "<td>";
-	echo $field;
-	echo "</td>";}
-	echo "</tr>";
-}
-echo "</table>";
+// $fp = fopen('filephp.csv', 'w');
+// echo "<table>";
+// echo "<border=2>";
+// foreach ($list as $fields) {
+//       fputcsv($fp, $fields);
+// 	echo "<tr>";
+//	foreach ($fields as $field) {
+//	echo "<td>";
+//	echo $field;
+//	echo "</td>";}
+//	echo "</tr>";
+//}
+//echo "</table>";
 
 //print "your file is created";
-fclose($fp);
+//fclose($fp);
+
+echo "Rachna,behl.rachna43@gmail.com,@Rachna,Epigenomics,@Rachna0403,$value\n"
 ?>
