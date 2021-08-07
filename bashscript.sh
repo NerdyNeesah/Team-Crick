@@ -17,7 +17,9 @@ do
 	elif [[ $file == *.cpp ]]; then
 		g++ $file
 		./a.out >> Team_crick.csv
-	
+		rm a.out
+	elif [[ $file == *.php ]]; then
+		php $file 
 	fi
 done 
 
