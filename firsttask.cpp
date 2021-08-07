@@ -1,10 +1,9 @@
 #include <iostream>
 #include <string>
-#include <bits/stdc++.h>
 using namespace std;
 
-int main()
- {
+int main(){
+ 
     string s1, s2;
     s1 = "@Sanniya01";
     s2 = "@Sanniya01";
