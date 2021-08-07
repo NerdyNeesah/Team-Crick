@@ -41,3 +41,6 @@ if test -f "$FILE"; then  #check if we have our c++ program compiled succssfully
     echo $RESULT >> Team_crick.csv #append thes result in the csv file
     rm $FILE 
 fi
+
+
+echo "All done. Find the csv file at ./Team-Crick/Team_crick.csv or ./Team_crick.csv"
